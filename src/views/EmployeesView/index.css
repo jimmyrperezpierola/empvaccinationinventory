@@ -1,0 +1,46 @@
+.container {
+    flex-grow: 1;
+    display: flexbox;
+    flex-direction: row;
+  }
+  
+  .noItems {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .list {
+    flex-grow: 1;
+    overflow: auto;
+    max-height: 500px;
+  }
+
+  .root {
+    padding-top: 12;
+    padding-bottom: 12;    
+    height: 120px;
+  }
+  
+  .textField {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 200;
+  }
+
+  .menu {
+    width: 200;
+  }
+
+  .dateTextField {
+    margin-left: 28px;
+    margin-right: 8px;
+    width: 200;
+  }
+
+  .button {
+    margin-left: 35px;
+    margin-top: 20px;    
+  }

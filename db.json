@@ -1,0 +1,195 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "test",
+      "password": "testpassword",
+      "identificationNumber": "8597516392"
+    },
+    {
+      "user": "13723a026a1a9b499f0e9f9fb8f4f6ad",
+      "password": "0aubq9vz",
+      "identificationNumber": "22222222222",
+      "id": 2
+    },
+    {
+      "user": "3a08fe7b8c4da6ed09f21c3ef97efce2",
+      "password": "pav1sqqf",
+      "identificationNumber": "2222222222",
+      "id": 3
+    },
+    {
+      "user": "a89d3c9f6d32c144a7a222320b9bb06c",
+      "password": "a49tv902",
+      "identificationNumber": "1235345344",
+      "id": 4
+    },
+    {
+      "user": "4e11a17b93baec249da832a4ec5ac01f",
+      "password": "95j9uswy",
+      "identificationNumber": "3453453473",
+      "id": 5
+    },
+    {
+      "user": "e669dc8807f484875afe676087a7dc5f",
+      "password": "6si62oif",
+      "identificationNumber": "3456587644",
+      "id": 6
+    },
+    {
+      "user": "b73e26e0b31d4a5ae85c9c636bb44507",
+      "password": "or6mlh8d",
+      "identificationNumber": "32432423456",
+      "id": 7
+    },
+    {
+      "user": "8b97a68f51c37a7b36024b3aecc7eb13",
+      "password": "cbgpig8j",
+      "identificationNumber": "3454378843",
+      "id": 8
+    },
+    {
+      "user": "d46827437e8e45da3752337348f054e8",
+      "password": "xt027xap",
+      "identificationNumber": "345346546456",
+      "id": 9
+    },
+    {
+      "user": "7e5f06ffe8519899281007d95b40ba1e",
+      "password": "7l8m2olz",
+      "identificationNumber": "3453455343",
+      "id": 10
+    },
+    {
+      "user": "6f9ebb055eb5840cfeccfee9a4622a4b",
+      "password": "44rvtrcn",
+      "identificationNumber": "5345353472",
+      "id": 11
+    },
+    {
+      "user": "cb09ee808cfa70e9cd3c03b39ad09c80",
+      "password": "xxjndy7w",
+      "identificationNumber": "2342356526",
+      "id": 12
+    },
+    {
+      "user": "998def916967c6dbb13ff1bbade5f470",
+      "password": "8ryj94ij",
+      "identificationNumber": "3456457543",
+      "id": 13
+    },
+    {
+      "user": "decb59f2623cf79cbb4297e114de9a8e",
+      "password": "f57brooe",
+      "identificationNumber": "2354367565",
+      "id": 14
+    },
+    {
+      "user": "a110d91b8cd61976f3cd8694279d39f0",
+      "password": "5b6h21xk",
+      "identificationNumber": "34534534677",
+      "id": 15
+    },
+    {
+      "user": "e5bd97dbc69b56303b5df72e842f2577",
+      "password": "91xvzw2i",
+      "identificationNumber": "3246756673",
+      "id": 16
+    },
+    {
+      "user": "8539c151e1713b573e9d6d098339fcbf",
+      "password": "kq90eqr1",
+      "identificationNumber": "3453453782",
+      "id": 17
+    },
+    {
+      "user": "714349475cfba6a715d412855aff3afa",
+      "password": "wmlh3e0d",
+      "identificationNumber": "5346547674",
+      "id": 18
+    }
+  ],
+  "employees": [
+    {
+      "identificationNumber": "1235345344",
+      "firstName": "Jimmy",
+      "lastName": "Perez",
+      "email": "pila900@gmail.com",
+      "birthDate": "",
+      "homeAddress": "",
+      "mobilePhoneNumber": "",
+      "isVaccinated": true,      
+      "vaccineName": "Johnson",
+      "vaccineDate": "06/06/2021",
+      "vaccineTimes": "2",
+      "id": 1
+    },
+    {
+      "identificationNumber": "3453453473",
+      "firstName": "Juliana",
+      "lastName": "Veras",
+      "email": "tesft3@gmail.com",
+      "birthDate": "05/05/1990",
+      "homeAddress": "La Glorieta #2354",
+      "mobilePhoneNumber": "66345878678",
+      "isVaccinated": true,      
+      "vaccineName": "Pfizer",
+      "vaccineDate": "04/04/2021",
+      "vaccineTimes": "2",
+      "id": 2
+    },
+    {
+      "identificationNumber": "3246756673",
+      "firstName": "Roberto",
+      "lastName": "Morato",
+      "email": "f@gmail.com",
+      "birthDate": "05/05/1990",
+      "homeAddress": "La Glorieta #2354",
+      "mobilePhoneNumber": "87987564",
+      "isVaccinated": true,      
+      "vaccineName": "Pfizer",
+      "vaccineDate": "05/05/2021",
+      "vaccineTimes": "1",
+      "id": 3
+    },
+    {
+      "identificationNumber": "3453453782",
+      "firstName": "Ximena",
+      "lastName": "Duarte",
+      "email": "xiduarte@gmail.com",
+      "id": 4
+    },
+    {
+      "identificationNumber": "5346547674",
+      "firstName": "new",
+      "lastName": "jyt",
+      "email": "frr@gmail.com",
+      "birthDate": "",
+      "homeAddress": "",
+      "mobilePhoneNumber": "",
+      "isVaccinated": true,
+      "vaccineName": "Sinopharm",
+      "vaccineDate": "08/08/2021",
+      "vaccineTimes": 0,
+      "isAdmin": false,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
